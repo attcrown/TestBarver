@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+  background:#dedede;
+  padding:48px;
+}
+
+h1 {
+  text-align:center;
+display:inline-block;
+font-size:72px;
+}
